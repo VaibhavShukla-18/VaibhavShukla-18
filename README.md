@@ -23,7 +23,7 @@ I'm continuously learning and building across **Python, SQL, Data Science, Machi
 ## 🧠 My Toolkit
 
 ### 💻 Programming & Data
-`Python` `SQL` `NumPy` `Pandas`
+`Python` `SQL` `MS Excel` `NumPy` `Pandas`
 
 ### 📊 Data Science
 `Statistics` `Probability` `Data Cleaning` `EDA` `Feature Engineering`  
