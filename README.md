@@ -49,4 +49,4 @@ I'm continuously improving my projects and building new ones focused on **Data S
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla18)
