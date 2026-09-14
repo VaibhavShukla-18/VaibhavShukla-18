@@ -118,7 +118,6 @@ Building a strong foundation in **Data Science, Machine Learning, and Generative
 My goal is to turn what I learn into **useful, well-documented, and increasingly production-oriented projects.**
 
 ---
-
 ## 🤝 Let's Connect
 
 🌐 [Portfolio](https://vaibhav-portfolio-jade.vercel.app/)
@@ -126,6 +125,6 @@ My goal is to turn what I learn into **useful, well-documented, and increasingly
 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla18)
 
 📂 [GitHub](https://github.com/VaibhavShukla-18)
----
+
 
 ⭐ Thanks for visiting my profile!
