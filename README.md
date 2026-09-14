@@ -121,10 +121,11 @@ My goal is to turn what I learn into **useful, well-documented, and increasingly
 
 ## 🤝 Let's Connect
 
+🌐 [Portfolio](https://vaibhav-portfolio-jade.vercel.app/)
+
 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla18)
 
 📂 [GitHub](https://github.com/VaibhavShukla-18)
-
 ---
 
 ⭐ Thanks for visiting my profile!
